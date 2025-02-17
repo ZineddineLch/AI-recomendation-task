@@ -1,0 +1,9 @@
+## Book Recommendation Task
+
+### Task
+Your task is to develop a book recommendation system using the provided dataset. Build an interface also to test the model, a user inters his preferences and the model generates the top recommended books for the user. A non AI solution can be considred.
+
+### Submission Guidelines
+Submit your solution as a well-documented notebook along with a brief report summarizing your approach, challenges faced, and results obtained. Include any relevant visualizations or insights you have gained from your analysis.
+
+Good luck and happy co

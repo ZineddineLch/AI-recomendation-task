@@ -1,0 +1,6 @@
+scikit-learn==1.3.0    # Machine learning models, including LinearRegression
+pandas==2.1.0          # Data handling (CSV, DataFrames)
+numpy==1.24.0          # Numerical computations (arrays, matrix operations)
+matplotlib==3.7.0      # Data visualization
+seaborn==0.12.2        # Statistical plots (correlation heatmaps, etc.)
+joblib==1.3.2          # Save & load trained models
